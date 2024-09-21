@@ -2,9 +2,9 @@
 
 <h1 align="center">Hi there 👋, I'm Shahzil Imran</h1>
 
-<p align="center">
+<!--- <p align="center">
   <img src="https://github.com/your-profile-picture.png" width="100" height="100" />
-</p>
+</p> --->
 
 <p align="center">
   Software Engineer | Section Leader @ Stanford Code in Place | Python Trainer @ iCodeGuru | Python Developer
@@ -67,7 +67,7 @@
 
 ---
 
-### GitHub Stats:
+<!--- ### GitHub Stats:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shahzilimran&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -76,7 +76,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzilimran&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
+--->
 ---
 
 ### Hobbies & Interests:
