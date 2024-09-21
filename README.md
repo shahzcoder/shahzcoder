@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">Hi there 👋, I'm Shahzil Imran</h1>
+<h1 align="center"> I'm Shahzil Imran</h1>
 
 <!--- <p align="center">
   <img src="https://github.com/your-profile-picture.png" width="100" height="100" />
