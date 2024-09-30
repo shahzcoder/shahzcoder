@@ -21,7 +21,7 @@
 - 🥇 Ranked among the top 10 in a Generative AI Hackathon (team secured 9/65).
 - 👨‍🏫 Trainer at iCodeGuru, teaching Python Fundamentals and Object-Oriented Programming to underprivileged students.
 - 💡 Honing my problem-solving skills on LeetCode (solved 125+ problems).
-- 🌱 Working towards becoming a Full-Stack Developer (currently familiar with full-stack development).
+- 🌱 Working towards becoming a Full-Stack Developer (currently familiar with front-end development).
 
 ### Skill Set:
 
