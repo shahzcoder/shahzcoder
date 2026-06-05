@@ -22,7 +22,7 @@ Final-year **B.S. Information Technology** student at NUML (CGPA: 3.82/4.00) who
 - 🎓 **3× Stanford Code in Place Section Leader** — taught Python globally
 - 🤖 **7+ AI/ML hackathons** on lablab.ai
 - 💻 **200+ LeetCode problems** solved
-- 🏅 **PM Youth Laptop Scheme Awardee** — highest SGPA (3.93) in class
+- 🏅 **PM Youth Laptop Scheme Awardee**
 
 ---
 
@@ -34,7 +34,6 @@ Final-year **B.S. Information Technology** student at NUML (CGPA: 3.82/4.00) who
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 **Frameworks & Libraries**
 
@@ -45,7 +44,6 @@ Final-year **B.S. Information Technology** student at NUML (CGPA: 3.82/4.00) who
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square&logo=gradio&logoColor=white)
 
 **Tools & Platforms**
 
