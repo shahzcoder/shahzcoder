@@ -106,8 +106,6 @@ Enterprise-grade AI analytics platform using IBM Granite LLMs on watsonx.ai with
 
 ---
 
-## GitHub Stats
-
 <div align="center">
 *"Build things that matter. Teach what you know. Keep shipping."*
 </div>
